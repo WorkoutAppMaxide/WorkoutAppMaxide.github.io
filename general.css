@@ -4,7 +4,7 @@ body{
 	font-family: Arial;
 	margin: 0;
 }
-.addEx{
+.header{
 	background-color: #ffe8c6;
 	border: 1px solid #ffa51d;
 	text-align: center;
@@ -15,7 +15,7 @@ body{
 	text-align: center;
 	padding: 50px;
 }
-.trash{
+.icon{
 	width: 70px;
 	margin-right:-30px; 
 	float: right;
